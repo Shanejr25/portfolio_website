@@ -87,7 +87,7 @@ li {
 
 /* line 59, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
 p {
-  font-size: 16px;
+  font-size: 25px;
   font-weight: 300;
   line-height: 28px;
   color: #7A838B;
@@ -1970,7 +1970,7 @@ h3 {
 
 /* line 56, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_about.scss */
 .about_wrap_area {
-  padding-top: 188px;
+  padding-top: 80px;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -7080,3 +7080,15 @@ ul.icons {
     text-align: center;
     border: 0;
   }
+
+.me img  {
+  border-radius: 50%;
+  
+
+}
+
+.about_heading {
+  font-size:50px;
+  text-align: left;
+  padding-top: 30px;
+}
