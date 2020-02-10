@@ -1392,7 +1392,7 @@ h3 {
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 44, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
   .slider_area .single_slider .slider_text span {
-    font-size: 16px;
+    font-size: 30px;
   }
 }
 
