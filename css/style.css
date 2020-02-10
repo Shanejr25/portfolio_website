@@ -11,8 +11,6 @@ body {
   font-family: "Alata", sans-serif;
   font-weight: normal;
   font-style: normal;
-  min-width: 550px;
-  overflow: hidden;
 }
 
 /* line 12, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
@@ -3570,7 +3568,7 @@ h3 {
 
 /* line 56, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .banner img {
-  max-width: 530px;
+  max-width: 100%;
   max-height: 100%; 
   width: auto;
 }
@@ -3601,12 +3599,13 @@ h3 {
 /* line 76, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 
 .work_details_area .details_single_img .thumb img {
-  max-width: 530px;
+  max-width: 100%;
   max-height: 100%; 
   width: auto;
   padding-bottom: 30px;
-  display: block;
+
 }
+
 
 
 /* line 2, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_team.scss */
