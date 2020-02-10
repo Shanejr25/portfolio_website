@@ -3732,9 +3732,13 @@ ul.icons {
     border: 0;
   }
 
+.about_wrap_area .about_heading p{
+  padding-left: 20px;
+}
 .me img  {
   border-radius: 50%;
 }
+
 
 .about_heading {
   font-size:50px;
