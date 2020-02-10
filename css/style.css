@@ -11,7 +11,7 @@ body {
   font-family: "Alata", sans-serif;
   font-weight: normal;
   font-style: normal;
-  
+  min-width: 550px;
 }
 
 /* line 12, ../../Arafath/CL/December/230. Portfolio/HTML/scss/theme-default.scss */
