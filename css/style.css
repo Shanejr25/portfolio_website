@@ -435,7 +435,7 @@ h3 {
 /* line 46, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_btn.scss */
 .boxed-btn3:hover {
   border: 1px solid #fff;
-  color: #0181F5 !important;
+  color: #C7CEDB !important;
   background: #fff;
 }
 
@@ -3480,7 +3480,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area {
-  background: #040E27;
+  background: #05668D;
   padding-bottom: 70px;
   position: relative;
   margin-top: -30px;
@@ -3546,8 +3546,8 @@ h3 {
 /* line 39, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_catagory_wrap .single_catagory .porject_btn {
   background: transparent;
-  border-color: #0181F5;
-  color: #0181F5 !important;
+  border-color: #679436;
+  color: #679436 !important;
 }
 
 /* line 43, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
