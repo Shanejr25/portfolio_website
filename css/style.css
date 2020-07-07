@@ -1036,7 +1036,7 @@ h3 {
 
 /* line 113, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a {
-  color: #fff;
+  color: black;
   font-size: 15px;
   text-transform: capitalize;
   font-weight: 400;
