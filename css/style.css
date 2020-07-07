@@ -2533,7 +2533,8 @@ h3 {
   background-repeat: no-repeat;
   position: relative;
   z-index: 0;
-  background: #05668D;
+  background: white;
+  /* background: #05668D; blue */
 }
 
 @media (max-width: 767px) {
