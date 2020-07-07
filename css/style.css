@@ -1183,7 +1183,8 @@ h3 {
   transition: transform 500ms ease, background 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
-  background: #040e27;
+  background: white;
+  /* background: #040e27; */
 }
 
 @media (max-width: 767px) {
@@ -1317,11 +1318,12 @@ h3 {
 .slider_area .single_slider {
   position: relative;
   z-index: 0;
-  height: 725px;
+  height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #05668D;
+  background-color: white;
+  /* background-color: #05668D; */
 }
 
 @media (max-width: 767px) {
@@ -1346,7 +1348,8 @@ h3 {
 
 /* line 21, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
-  color: #A5BE00;
+  color: black;
+  /*color: #A5BE00; */
   font-family: "Alata", sans-serif;
   font-size: 50px;
   font-weight: 400;
@@ -1375,7 +1378,7 @@ h3 {
     font-size: 45px;
     letter-spacing: 3px;
     line-height: 55px;
-    color: #A5BE00;
+    color: black;
   }
 }
 
@@ -1383,7 +1386,7 @@ h3 {
 .slider_area .single_slider .slider_text span {
   font-size: 30px;
   font-weight: 400;
-  color: #C7CED8;
+  color: #3178fc;
   position: relative;
   z-index: 1;
   display: block;
@@ -2547,7 +2550,7 @@ h3 {
 /* line 36, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_bradcam.scss */
 .bradcam_area h3 {
   font-size: 70px;
-  color: #A5BE00;
+  color: #3178fc;
   font-weight: 400;
   margin-bottom: 0;
   text-transform: capitalize;
@@ -3481,7 +3484,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area {
-  background: #05668D;
+  background: white;
   padding-bottom: 70px;
   position: relative;
   margin-top: -30px;
@@ -3518,7 +3521,7 @@ h3 {
 /* line 16, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_catagory_wrap .single_catagory span {
   font-size: 12px;
-  color: #828793;
+  color: black;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   display: block;
@@ -3528,14 +3531,14 @@ h3 {
 /* line 24, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_catagory_wrap .single_catagory h4 {
   font-size: 16px;
-  color: #fff;
+  color: black;
   font-weight: 400;
 }
 
 /* line 30, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_catagory_wrap .single_catagory .social_links a {
   font-size: 16px;
-  color: #fff;
+  color: black;
   margin-right: 20px;
 }
 
@@ -3547,15 +3550,15 @@ h3 {
 /* line 39, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_catagory_wrap .single_catagory .porject_btn {
   background: transparent;
-  border-color: #679436;
-  color: #679436 !important;
+  border-color: #3178fc;
+  color: #3178fc !important;
 }
 
 /* line 43, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
 .work_details_area .details_catagory_wrap .single_catagory .porject_btn:hover {
   color: #0181F5 !important;
-  background: #fff;
-  border-color: #fff;
+  background: black;
+  border-color: black;
 }
 
 /* line 51, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
@@ -3591,7 +3594,7 @@ h3 {
 .work_details_area .details_info .info p {
   font-size: 16px;
   font-weight: 400;
-  color: #AAB1B7;
+  color: black;
 }
 
 /* line 74, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
@@ -3703,20 +3706,21 @@ h3 {
 
 /* Facebook */
 .fa-linkedin {
-  color: #C7CEDB;
+  color: black;
 }
 
 /* Twitter */
 .fa-instagram {
-  color: #C7CEDB;
+  color: black;
 }
 
 .fa-github {
-  color: #C7CEDB;
+  color: black;
+  /* color: #C7CEDB; */
 }
 
 .fa-envelope {
-  color: #C7CEDB;
+  color: black;
 }
 
 ul.icons {
